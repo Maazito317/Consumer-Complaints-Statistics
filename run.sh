@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python 3.8 ./src/consumer_complaints.py --input-file ./input/complaints.csv --output-file ./output/report.csv
+python3.8 ./src/consumer_complaints.py --input-file ./input/complaints.csv --output-file ./output/report.csv
